@@ -1,0 +1,39 @@
+name,coutnry,lat,lon,power_mw,usage,est_emission
+swb Bremen CHP,Germania,53.1215,8.6942 ,105,Cogeneration,150000
+Dresden-Reick,Germania,51.0246,13.7849,90,Cogeneration,130000
+KMW Mainz-Wiesbaden,Germania,50.0175,8.3011 ,100,Grid Peaking,45000
+Metaenergia Gorizia,Italia,45.9220,13.6015,60,Grid Balancing,90000
+Metaenergia Castellanza,Italia,45.6075,8.8903 ,60,Grid Balancing,90000
+Metaenergia Piombino,Italia,42.9430,10.5510,60,Grid Balancing,90000
+Metaenergia Sulmona,Italia,42.0835,13.9312,60,Grid Balancing,90000
+Metaenergia Cassino,Italia,41.4925,13.8305,60,Grid Balancing,90000
+Metaenergia Melfi,Italia,41.0007,15.6521,60,Grid Balancing,90000
+Kiisa ERPP,Estonia,59.2460,24.7074,250,Emergency reserve,5000
+IPP3 Amman,Giordania,31.6631,36.0105,573,Baseload,1100000
+Humboldt Bay,USA,40.7392,124.210,163,Grid Peaking,220000
+Antelope Station,USA,34.1852,102.261,170,Grid Peaking,140000
+Eklutna Generation,USA,61.4645,149.362,171,Baseload Artic,420000
+Huinala Power,Guatemala,14.8214,90.5218,139,Baseload Continuous,400000
+Parnaíba IV,Brasile,4.8622 ,44.3314,56,Grid Support,85000
+Viana Power Plant,Brasile,20.3881,40.4952,175,Peaking,160000
+Manantiales Behr,Argentina,45.5210,67.5110,58,Hybrid aeloic/gas,70000
+Dr Bird I & II,Giamaica,17.9152,77.1624,115,Baseload Island,360000
+United Power CEPZ,Bangladesh,22.3601,91.8214,105,Industriale Continuo,310000
+Ashuganj Power,Bangladesh,24.0415,91.0102,195,Baseload,580000
+Aliaga Power,Turchia,38.7915,26.9621,270,Combines Cycle,680000
+Aksa Samsun,Turchia,41.2415,36.4510,130,Flexible,290000
+Cheong Soo,Corea del Sud,36.7812,127.162,45,Cogeneration,55000
+Sasolburg Operations,Sudafrica,26.8215,27.8246,175,Cogeneration,490000
+Malicounda,Senegal,14.4215,16.9521,130,Baseload,410000
+NiuPower Ltd,Papua Nuova Guinea,9.4231 ,147.192,58,Utility Gas,170000
+Lake Kivu,Ruanda,2.0415 ,29.2152,25,Methane Extraction,80000
+Marquette Energy,USA,46.5436,87.4005,50,Grid Peaking,50000
+Port Westward U2,USA,46.1341,123.181,220,Grid Support,190000
+Pearsall Power,USA,28.8912,99.1014,202,Grid Support,180000
+Woodland 3,USA,37.6612,121.010,50,Grid Peaking,45000
+Plains End I & II,USA,39.7915,105.215,113,Grid Support,110000
+Barrick Goldstrike,USA,40.9612,116.381,115,Mining,380000
+Cartiera Sora,Italia,41.7214,13.6102,30,Paper Industry,95000
+Cartiera Lucchese,Italia,43.8421,10.5015,18,Paper Industry,60000
+Raffineria Milazzo,Italia,38.2115,15.2414,45,Refinery,165000
+Orogel Cesena,Italia,44.1415,12.2412,12,Trigeneration,35000
