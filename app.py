@@ -8,3 +8,4 @@ df = pd.read_csv("data.csv")
 @app.route("/")
 def home():
     msg = jsonify({"message": "My CSV API is running!"})
+    return msg
